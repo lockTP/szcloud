@@ -39,6 +39,7 @@ public class BookControllerTest {
 	
 	
 	//MockMVC 虚拟请求测试
+	@Ignore
 	@Test
 	public void testMockMVCRequest() throws Exception{
 		//发送虚拟请求
