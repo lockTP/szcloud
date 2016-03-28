@@ -12,7 +12,7 @@
 	   <properties>  
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>  
         <springversion>3.2.1.RELEASE</springversion>  
-        <junitversion>3.8.1</junitversion>  
+        <junitversion>4.11</junitversion>  
 		<checkstyle.config.location>${basedir}/src/main/resources/conf/szcloud_checks.xml</checkstyle.config.location>  
     </properties>  
 
